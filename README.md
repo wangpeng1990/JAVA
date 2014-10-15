@@ -1,4 +1,4 @@
 JAVA
 ====
 
-Functions or methods written by myself
+The code in this repository provide some functions we may occasionally use.
