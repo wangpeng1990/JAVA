@@ -21,5 +21,6 @@ public class TrimSpace
 		}
 		String str=new String(b);
 		return str;
+		
 	}
 }
